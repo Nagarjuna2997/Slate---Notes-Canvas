@@ -54,15 +54,6 @@ Slate is a minimal notes and canvas app for iOS. Combine rich text editing with 
 - iOS 17.0+
 - Xcode 15.0+
 
-## Installation
-
-```bash
-git clone https://github.com/Nagarjuna2997/Slate---Notes-Canvas.git
-cd Slate---Notes-Canvas
-open Slate.xcodeproj
-```
-
-Build and run on a simulator or device from Xcode.
 
 ## Privacy
 
