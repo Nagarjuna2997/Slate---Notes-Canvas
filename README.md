@@ -13,6 +13,8 @@
 
 ---
 
+AppstoreLink: https://apps.apple.com/us/app/slate-notes-canvas/id6758966563
+
 ## About
 
 Slate is a minimal notes and canvas app for iOS. Combine rich text editing with an infinite canvas to capture everything — from quick notes to detailed sketches — all in one place.
